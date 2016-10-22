@@ -1,0 +1,3 @@
+title=Windows 8
+about=Windows 8 48x48 by leoncastro.\n
+background=255
