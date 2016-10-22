@@ -1,0 +1,3 @@
+title=Windows 10
+about=Windows 10 48x48 by leoncastro\nMaterial Icons by Jack Monroe (materialdesignicons.com)\n
+background=255
